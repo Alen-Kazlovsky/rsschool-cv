@@ -37,3 +37,14 @@ const arr=[];
   return arr;
 }
 ```
+*****
+## **Education**
+* **_Belarusian National Technical University_**
+Faculty of Mechanical Engineering
+* **_RSschool_** (Front-end development)
+*****
+## **Languages**
+* English (B1)
+* Polish (A1)
+* Russian (native)
+*****
